@@ -22,3 +22,9 @@ section{
     line-height: 150%;
     text-align: justify;
 }
+
+footer{
+    background-color: aqua;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
